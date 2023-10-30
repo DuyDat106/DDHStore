@@ -1,0 +1,289 @@
+[
+  {
+    "id" : 1,
+    "name" : "full",
+    "guard_name" : "admins",
+    "group" : "full",
+    "description" : "All quyền"
+  },
+  {
+    "id" : 2,
+    "name" : "category_index",
+    "guard_name" : "admins",
+    "group" : "category",
+    "description" : "list category"
+  },
+  {
+    "id" : 3,
+    "name" : "category_create",
+    "guard_name" : "admins",
+    "group" : "category",
+    "description" : "create category"
+  },
+  {
+    "id" : 4,
+    "name" : "category_update",
+    "guard_name" : "admins",
+    "group" : "category",
+    "description" : "update category"
+  },
+  {
+    "id" : 5,
+    "name" : "category_delete",
+    "guard_name" : "admins",
+    "group" : "category",
+    "description" : "delete category"
+  },
+  {
+    "id" : 6,
+    "name" : "keyword_index",
+    "guard_name" : "admins",
+    "group" : "keyword",
+    "description" : "list keyword"
+  },
+  {
+    "id" : 7,
+    "name" : "keyword_create",
+    "guard_name" : "admins",
+    "group" : "keyword",
+    "description" : "create keyword"
+  },
+  {
+    "id" : 8,
+    "name" : "keyword_update",
+    "guard_name" : "admins",
+    "group" : "keyword",
+    "description" : "update keyword"
+  },
+  {
+    "id" : 9,
+    "name" : "keyword_delete",
+    "guard_name" : "admins",
+    "group" : "keyword",
+    "description" : "delete keyword"
+  },
+  {
+    "id" : 10,
+    "name" : "product_index",
+    "guard_name" : "admins",
+    "group" : "product",
+    "description" : "list product"
+  },
+  {
+    "id" : 11,
+    "name" : "product_create",
+    "guard_name" : "admins",
+    "group" : "product",
+    "description" : "create product"
+  },
+  {
+    "id" : 12,
+    "name" : "product_update",
+    "guard_name" : "admins",
+    "group" : "product",
+    "description" : "update product"
+  },
+  {
+    "id" : 13,
+    "name" : "product_delete",
+    "guard_name" : "admins",
+    "group" : "product",
+    "description" : "delete product"
+  },
+  {
+    "id" : 14,
+    "name" : "user_update",
+    "guard_name" : "admins",
+    "group" : "user",
+    "description" : "update user"
+  },
+  {
+    "id" : 15,
+    "name" : "user_delete",
+    "guard_name" : "admins",
+    "group" : "user",
+    "description" : "delete user"
+  },
+  {
+    "id" : 16,
+    "name" : "manufacturer_index",
+    "guard_name" : "admins",
+    "group" : "manufacturer",
+    "description" : "list manufacturer"
+  },
+  {
+    "id" : 17,
+    "name" : "manufacturer_create",
+    "guard_name" : "admins",
+    "group" : "manufacturer",
+    "description" : "create manufacturer"
+  },
+  {
+    "id" : 18,
+    "name" : "manufacturer_update",
+    "guard_name" : "admins",
+    "group" : "manufacturer",
+    "description" : "update manufacturer"
+  },
+  {
+    "id" : 19,
+    "name" : "manufacturer_delete",
+    "guard_name" : "admins",
+    "group" : "manufacturer",
+    "description" : "delete manufacturer"
+  },
+  {
+    "id" : 20,
+    "name" : "menu_index",
+    "guard_name" : "admins",
+    "group" : "menu",
+    "description" : "list menu"
+  },
+  {
+    "id" : 21,
+    "name" : "menu_create",
+    "guard_name" : "admins",
+    "group" : "menu",
+    "description" : "create menu"
+  },
+  {
+    "id" : 22,
+    "name" : "menu_update",
+    "guard_name" : "admins",
+    "group" : "menu",
+    "description" : "update menu"
+  },
+  {
+    "id" : 23,
+    "name" : "menu_delete",
+    "guard_name" : "admins",
+    "group" : "menu",
+    "description" : "delete menu"
+  },
+  {
+    "id" : 24,
+    "name" : "tag_index",
+    "guard_name" : "admins",
+    "group" : "tag",
+    "description" : "list tag"
+  },
+  {
+    "id" : 25,
+    "name" : "tag_create",
+    "guard_name" : "admins",
+    "group" : "tag",
+    "description" : "create tag"
+  },
+  {
+    "id" : 26,
+    "name" : "tag_update",
+    "guard_name" : "admins",
+    "group" : "tag",
+    "description" : "update tag"
+  },
+  {
+    "id" : 27,
+    "name" : "tag_delete",
+    "guard_name" : "admins",
+    "group" : "tag",
+    "description" : "delete tag"
+  },
+  {
+    "id" : 28,
+    "name" : "article_index",
+    "guard_name" : "admins",
+    "group" : "article",
+    "description" : "list article"
+  },
+  {
+    "id" : 29,
+    "name" : "article_create",
+    "guard_name" : "admins",
+    "group" : "article",
+    "description" : "create article"
+  },
+  {
+    "id" : 30,
+    "name" : "article_update",
+    "guard_name" : "admins",
+    "group" : "article",
+    "description" : "update article"
+  },
+  {
+    "id" : 31,
+    "name" : "article_delete",
+    "guard_name" : "admins",
+    "group" : "article",
+    "description" : "delete article"
+  },
+  {
+    "id" : 32,
+    "name" : "slide_index",
+    "guard_name" : "admins",
+    "group" : "slide",
+    "description" : "list slide"
+  },
+  {
+    "id" : 33,
+    "name" : "slide_create",
+    "guard_name" : "admins",
+    "group" : "slide",
+    "description" : "create slide"
+  },
+  {
+    "id" : 34,
+    "name" : "slide_update",
+    "guard_name" : "admins",
+    "group" : "slide",
+    "description" : "update slide"
+  },
+  {
+    "id" : 35,
+    "name" : "slide_delete",
+    "guard_name" : "admins",
+    "group" : "slide",
+    "description" : "delete slide"
+  },
+  {
+    "id" : 36,
+    "name" : "transaction_index",
+    "guard_name" : "admins",
+    "group" : "transaction",
+    "description" : "list transaction"
+  },
+  {
+    "id" : 37,
+    "name" : "transaction_view",
+    "guard_name" : "admins",
+    "group" : "transaction",
+    "description" : "view transaction"
+  },
+  {
+    "id" : 38,
+    "name" : "transaction_success",
+    "guard_name" : "admins",
+    "group" : "transaction",
+    "description" : "success transaction"
+  },
+  {
+    "id" : 39,
+    "name" : "transaction_cancel",
+    "guard_name" : "admins",
+    "group" : "transaction",
+    "description" : "cancel transaction"
+  },
+  {
+    "id" : 40,
+    "name" : "transaction_delete",
+    "guard_name" : "admins",
+    "group" : "transaction",
+    "description" : "delete transaction"
+  },
+  {
+    "id" : 41,
+    "name" : "order_delete",
+    "guard_name" : "admins",
+    "group" : "order",
+    "description" : "delete order"
+  }
+]
